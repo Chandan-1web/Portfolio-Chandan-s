@@ -1,4 +1,4 @@
-# Portfolio – Chandan S
+# Portfolio – Chandan K
 
 A professional developer portfolio website built to showcase my profile, projects, skills, and resume in a clean, recruiter-friendly format.
 
