@@ -28,6 +28,7 @@ My focus is on clean architecture, database-driven applications, secure workflow
 ## Technical Skills
 
 ### Languages
+
 - Java
 - JavaScript
 - SQL
@@ -35,6 +36,7 @@ My focus is on clean architecture, database-driven applications, secure workflow
 - CSS
 
 ### Frameworks & Backend
+
 - Spring Boot
 - Hibernate
 - JPA
@@ -44,6 +46,7 @@ My focus is on clean architecture, database-driven applications, secure workflow
 - REST APIs
 
 ### Developer Tools
+
 - Eclipse
 - Visual Studio Code
 - MySQL Workbench
@@ -186,11 +189,13 @@ Bengaluru, Karnataka
 ## Internship Experience
 
 ### Java Full Stack Development Intern
+
 **Tap Edtech Pvt Ltd**
 
 Worked on Java-based full-stack web applications using Java, JSP, Servlets, JDBC, MySQL, MVC, DAO architecture, HTML, CSS, and JavaScript.
 
 ### Full Stack Development Intern
+
 **Zidio Development**
 
 Worked on KEYSTONE, a Field Service Management System using Java, Spring Boot, React, MySQL, REST APIs, Hibernate/JPA, Spring Security, and JWT.
@@ -208,3 +213,4 @@ Chandan-Portfolio/
 ├── script.js
 ├── resume.pdf
 └── README.md
+```
